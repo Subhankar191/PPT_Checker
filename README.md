@@ -32,6 +32,7 @@ Built using **Python**
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
-pip install -r requirements.txt
+git clone https://github.com/Subhankar191/PPT_Checker.git
+cd PPT_Checker
+
+Install all the dependencies from **requirements.txt**
