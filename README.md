@@ -77,5 +77,8 @@ Install all the dependencies from "requirements.txt".
 # If using a virtual environment, activate it first
 # On Windows:
 venv\Scripts\activate
+
+⚠️ Please add your own Google API key to the `.env` file.
+
 # Then run the analyzer
 python analyzer.py NoogatAssignment.pptx --verbose
