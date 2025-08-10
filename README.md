@@ -1,12 +1,16 @@
 # 🔍 PowerPoint Consistency Analyzer
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open Issues](https://img.shields.io/github/issues-raw/your-username/repo-name)](https://github.com/your-username/repo-name/issues)
+An AI-powered tool that automatically detects inconsistencies in PowerPoint presentations, including **conflicting data**, **contradictory claims** and **timeline mismatches**.
 
-An AI-powered tool that automatically detects inconsistencies in PowerPoint presentations, including conflicting data, contradictory claims, and timeline mismatches.
+Built using **Python**
 
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk4b2VhY2V1Z3Z1ZTh5dGJjZ2R5dG0xY3B4eWZ6dHhqY2VtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-demo-gif-id.gif)
+---
+
+## 🖼️ Screenshots
+
+### 📋 Inconsistencies
+![Campaigns](.screenshots/Screenshot_2.png)
+
 
 ## ✨ Features
 
