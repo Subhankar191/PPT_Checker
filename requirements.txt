@@ -1,0 +1,17 @@
+python-pptx>=0.6.21
+Pillow>=9.0.0
+pytesseract>=0.3.10
+google-generativeai>=0.3.2
+python-dotenv>=1.0.0
+numpy>=1.24.0
+
+# Install all dependencies with one command (for windows)
+pip install python-pptx Pillow pytesseract google-generativeai python-dotenv numpy
+
+# Install Tesseract OCR (system-level requirement)
+a. Download from UB Mannheim Tesseract
+b. Run the installer
+c. Add to PATH (check during installation)
+
+# Use gemini 2.5 flash to make comparison fair 
+(free api key here: https://aistudio.google.com/app/apikey)
