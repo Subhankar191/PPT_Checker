@@ -72,7 +72,7 @@ git clone https://github.com/Subhankar191/PPT_Checker.git
 cd PPT_Checker
 
 # Install dependencies
-pip install -r requirements.txt
+Install all the dependencies from "requirements.txt".
 
 # If using a virtual environment, activate it first
 # On Windows:
