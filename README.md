@@ -26,6 +26,7 @@ Built using **Python**
 ## 🚀 Quick Start
 
 ### Prerequisites
+- VS Code
 - Python 3.8+
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - Google API key ([Get one here](https://aistudio.google.com/app/apikey))
@@ -36,3 +37,6 @@ git clone https://github.com/Subhankar191/PPT_Checker.git
 cd PPT_Checker
 
 Install all the dependencies from "requirements.txt".
+
+Finally run the below command in terminal
+python analyzer.py NoogatAssignment.pptx --verbose 
