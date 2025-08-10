@@ -9,7 +9,7 @@ Built using **Python**
 ## 🖼️ Screenshots
 
 ### 📋 Inconsistencies
-![Result](.screenshots/Screenshot_1.png)
+![Result](.screenshot/Screenshot_1.png)
 
 
 ## ✨ Features
