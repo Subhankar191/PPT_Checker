@@ -58,6 +58,8 @@ Built using **Python**
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - Google API key ([Get one here](https://aistudio.google.com/app/apikey))
 
+---
+
 ### Installation
 ```bash
 git clone https://github.com/Subhankar191/PPT_Checker.git
