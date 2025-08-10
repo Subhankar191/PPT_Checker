@@ -35,4 +35,4 @@ Built using **Python**
 git clone https://github.com/Subhankar191/PPT_Checker.git
 cd PPT_Checker
 
-Install all the dependencies from **requirements.txt**
+Install all the dependencies from "requirements.txt".
